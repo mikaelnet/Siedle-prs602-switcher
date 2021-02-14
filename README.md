@@ -21,3 +21,7 @@ corresponding serial command is resent.
 * arduino: A simple sketch for the Arduino firmware.
 * case: STL files for the case for 3D printng.
 * desktop: Simple Windows Form application for controlling the switch box
+
+![Mounted Switch](img/mounted.jpeg)
+
+![Board](img/board.jpeg)

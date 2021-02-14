@@ -1,0 +1,54 @@
+Partlist
+
+Part Value            Device              Package             Description
+-------------------------------------------------------------------------
+C1   100nF            C-EUC1206           C1206               CAPACITOR
+C2   10uF             CPOL-EUE2.5-5       E2,5-5              POLARIZED CAPACITOR
+C3   100uF            CPOL-EUE3.5-8       E3,5-8              POLARIZED CAPACITOR (optional)
+CN1  8-15V DC         DCBARRELPTH         DCJACK_2MM_PTH      2.1mm DC Barrel Jack (optional)
+D1   1N4004           1N4004              DO41-10             Flyback diode
+D2   1N4004           1N4004              DO41-10             Flyback diode
+D3   1N4004           1N4004              DO41-10             Flyback diode
+D4   1N4004           1N4004              DO41-10             Flyback diode
+D5   1N4004           1N4004              DO41-10             Flyback diode
+D6   1N4004           1N4004              DO41-10             Flyback diode
+D7   1N4004           1N4004              DO41-10             Flyback diode
+IC1  7805T            7805T               TO220H              Positive VOLTAGE REGULATOR (optional)
+K1   G5V-2            G5V-2               G5V-2               OMRON PCB Relay
+K2   G5V-2            G5V-2               G5V-2               OMRON PCB Relay
+K3   G5V-2            G5V-2               G5V-2               OMRON PCB Relay
+K4   G5V-2            G5V-2               G5V-2               OMRON PCB Relay
+K5   G5V-2            G5V-2               G5V-2               OMRON PCB Relay
+K6   G5V-2            G5V-2               G5V-2               OMRON PCB Relay
+LED1 GREEN            LED3MM              LED3MM              LED
+LED2 GREEN            LED3MM              LED3MM              LED
+LED3 GREEN            LED3MM              LED3MM              LED
+M1   ARDUINO-NANO-3.0 ARDUINO-NANO-3.0    ARDUINO-NANO-3.0    Arduino Nano 3.0 and compatible devices
+IN   RJ11-in          XRJK-S-01-6-4-0-9M2 XRJK-S-01-6-4-0-9M2 RJ11 Connector, 6 position, 4 contacts
+OUT1 RJ11-out1        XRJK-S-01-6-4-0-9M2 XRJK-S-01-6-4-0-9M2 RJ11 Connector, 6 position, 4 contacts
+OUT2 RJ11-out2        XRJK-S-01-6-4-0-9M2 XRJK-S-01-6-4-0-9M2 RJ11 Connector, 6 position, 4 contacts
+OUT3 RJ11-out3        XRJK-S-01-6-4-0-9M2 XRJK-S-01-6-4-0-9M2 RJ11 Connector, 6 position, 4 contacts
+R1   2k2              R-EU_0309/10        0309/10             RESISTOR
+R2   2k2              R-EU_0309/10        0309/10             RESISTOR
+R3   2k2              R-EU_0309/10        0309/10             RESISTOR
+R4   2k2              R-EU_0309/10        0309/10             RESISTOR
+R5   2k2              R-EU_0309/10        0309/10             RESISTOR
+R6   2k2              R-EU_0309/10        0309/10             RESISTOR
+R7   330              R-EU_0309/10        0309/10             RESISTOR
+R8   330              R-EU_0309/10        0309/10             RESISTOR
+R9   330              R-EU_0309/10        0309/10             RESISTOR
+R10  10k              R-EU_0309/10        0309/10             RESISTOR
+R11  10k              R-EU_0309/10        0309/10             RESISTOR
+R12  10k              R-EU_0309/10        0309/10             RESISTOR
+R13  10k              R-EU_0309/10        0309/10             RESISTOR
+R14  10k              R-EU_0309/10        0309/10             RESISTOR
+R15  10k              R-EU_0309/10        0309/10             RESISTOR
+S1                    10-XX               B3F-10XX            OMRON SWITCH
+S2                    10-XX               B3F-10XX            OMRON SWITCH
+S3                    10-XX               B3F-10XX            OMRON SWITCH
+T1   BC337            BC337               TO92                NPN TRANSISTOR
+T2   BC337            BC337               TO92                NPN TRANSISTOR
+T3   BC337            BC337               TO92                NPN TRANSISTOR
+T4   BC337            BC337               TO92                NPN TRANSISTOR
+T5   BC337            BC337               TO92                NPN TRANSISTOR
+T6   BC337            BC337               TO92                NPN TRANSISTOR

@@ -1,0 +1,18 @@
+# eagle files
+*.brd	text
+*.sch	text
+
+# gerber files
+*.dri	text
+*.gbl	text
+*.gbo	text
+*.gbp	text
+*.gbs	text
+*.gko	text
+*.gpi	text
+*.gtl	text
+*.gto	text
+*.gtp	text
+*.gts	text
+*.xl	text
+
